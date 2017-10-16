@@ -1,0 +1,4 @@
+2017-09-28 11:40:38,593 ERROR org.apache.hadoop.mrunit.TestDriver: Expected no outputs; got 1 outputs.
+2017-09-28 11:40:38,604 ERROR org.apache.hadoop.mrunit.TestDriver: Received unexpected output (01, 0.0) at position 0.
+2017-09-28 11:49:40,091 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (01, 30.8) at position 0.
+2017-09-28 11:49:40,096 ERROR org.apache.hadoop.mrunit.TestDriver: Received unexpected output (01, 30.7) at position 0.

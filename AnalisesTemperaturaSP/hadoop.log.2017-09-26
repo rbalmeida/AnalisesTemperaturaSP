@@ -1,0 +1,8 @@
+2017-09-26 11:09:43,670 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (1950, -12) at position 0.
+2017-09-26 11:09:43,673 ERROR org.apache.hadoop.mrunit.TestDriver: Received unexpected output (1950, -11) at position 0.
+2017-09-26 11:16:55,178 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (1950, -11) at position 0.
+2017-09-26 11:16:55,181 ERROR org.apache.hadoop.mrunit.TestDriver: Received unexpected output (1951, -11) at position 0.
+2017-09-26 11:21:35,860 ERROR org.apache.hadoop.mrunit.TestDriver: Expected no outputs; got 1 outputs.
+2017-09-26 11:21:35,863 ERROR org.apache.hadoop.mrunit.TestDriver: Received unexpected output (1950, 9999) at position 0.
+2017-09-26 12:03:36,125 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (1950, 11) at position 0.
+2017-09-26 12:03:36,134 ERROR org.apache.hadoop.mrunit.TestDriver: Received unexpected output (1950, 10) at position 0.
